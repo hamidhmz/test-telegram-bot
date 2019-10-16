@@ -1,0 +1,5 @@
+{
+  "bot": "botToken",
+  "chat_id": "channel id",
+  "proxyUrl": "url of proxy server"
+}
